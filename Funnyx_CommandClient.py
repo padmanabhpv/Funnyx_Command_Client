@@ -2,7 +2,7 @@ import sys
 import os
 import pyttsx3
 import datetime
-import pandas,tkinter.messagebox
+import pandas
 try:
     import pywhatkit,wikipedia
 except:
